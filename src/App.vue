@@ -121,7 +121,6 @@ export default {
 <style>
 @import "../node_modules/@syncfusion/ej2-base/styles/material.css";
 @import "../node_modules/@syncfusion/ej2-inputs/styles/material.css";
-@import "../node_modules/@syncfusion/ej2-vue-dropdowns/styles/material.css";
 @import "../node_modules/@syncfusion/ej2-vue-diagrams/styles/material.css";
 @import "../node_modules/@syncfusion/ej2-navigations/styles/material.css";
 </style>
