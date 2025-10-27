@@ -220,6 +220,4 @@ The final output displays an organizational chart with:
 3. **Custom Node Content**: Each node displays both employee name and role
 4. **Visual Hierarchy**: Clear parent-child relationships with orthogonal connectors
 
-> **Sample**: [vue-3-diagram-getting-started](https://github.com/SyncfusionExamples/EJ2-Vue3-gettingstarted).
-
 For migrating from Vue 2 to Vue 3, refer to the [`migration`](https://ej2.syncfusion.com/vue/documentation/getting-started/vue3-tutorial/#migration-from-vue-2-to-vue-3) documentation.
