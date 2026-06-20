@@ -1,6 +1,6 @@
 # Getting Started with the Vue Diagram Component in Vue 3
 
-This sample project demonstrates how to create an organizational chart using the Syncfusion Vue Diagram component in a Vue 3 application. The project showcases hierarchical data binding and automatic layout features to create a professional-looking organizational structure.
+This sample project demonstrates how to create an organizational chart using the [Vue Diagram](https://www.syncfusion.com/vue-components/vue-diagram) component in a Vue 3 application. The project showcases hierarchical data binding and automatic layout features to create a professional-looking organizational structure.
 
 ## Project Overview
 
